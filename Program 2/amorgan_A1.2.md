@@ -1,0 +1,1 @@
+The plaintext matrix needs to contain 4 elements so we can multiply our coding matrix with it. Coding matrix is of order 4X4, Plaintext should be of order 4XN, resulting matrix will be 4XN
